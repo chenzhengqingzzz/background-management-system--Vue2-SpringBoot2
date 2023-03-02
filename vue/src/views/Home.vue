@@ -7,7 +7,7 @@
       青哥出手，马上拥有
       <el-divider />
       B站所有的付费笔记、源码、代码生成器、成品项目等都打包在VIP群，<b>99</b>元上车<br><br>
-      3款代码生成器打骨折，帮你快速完成毕设，<b>9.9</b>元上车，如果需要，加UP QQ：1938976892<br><br>
+      4款青戈原创的代码生成器，如果需要，加UP QQ：1938976892<br><br>
       <a style="color: #1E90FF" href="https://mp.weixin.qq.com/s?__biz=MzAwMTA0OTg3Ng==&mid=2247492593&idx=1&sn=e2ccafcd4364c54a7de20fcd4d474294&chksm=9add378aadaabe9c982a8859f903f1c475deba3420bd0a2d8c11cf5c427e2bb5da00b0a39dac#rd" target="_blank">知识星球</a>
       新人特惠活动进行中，关于本项目的任何问题都可以得到1对1的解答服务，
       现在 <a style="color: red; font-size: 20px" href="https://t.zsxq.com/08x4zzHWo" target="_blank">戳我加入</a><br><br>
@@ -21,7 +21,7 @@
           这是一款专门针对毕设系统设计的框架，代码简单，结构清晰，如果你是小白，一定不要错过哦
         </div>
         <div class="m-10"><el-button type="danger"><i class="el-icon-coin"></i> 免费开源</el-button></div>
-        <div class="m-10"><el-button type="primary"><i class="el-icon-s-custom"></i> 交流QQ群：492402698（满）</el-button>
+        <div class="m-10"><el-button type="primary"><i class="el-icon-s-custom"></i> 交流QQ群：435247329 </el-button>
           <el-button type="primary">715739443</el-button></div>
         <div class="m-10">
           <el-button type="primary"><i class="el-icon-link"></i> <a style="color: #fff" href="https://github.com/xqnode/pure-design">Github源码</a></el-button>
