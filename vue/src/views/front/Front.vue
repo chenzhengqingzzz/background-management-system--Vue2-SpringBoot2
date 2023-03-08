@@ -77,7 +77,7 @@
     </div>
 
     <div style="width: 1000px; margin: 0 auto">
-      <router-view />
+      <router-view @refreshUser="getUser" />
     </div>
   </div>
 </template>
