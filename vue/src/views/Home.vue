@@ -6,7 +6,7 @@
     <el-card>
       青哥出手，马上拥有
       <el-divider />
-      B站所有的付费笔记、源码、代码生成器、成品项目等都打包在VIP群，<b>128</b>元上车<br><br>
+      B站所有的付费笔记、源码、代码生成器、成品项目等都打包在VIP群，<b>199</b>元上车<br><br>
       4款青戈原创的代码生成器，如果需要，加UP QQ：1938976892<br><br>
       <a style="color: #1E90FF" href="https://mp.weixin.qq.com/s?__biz=MzAwMTA0OTg3Ng==&mid=2247492593&idx=1&sn=e2ccafcd4364c54a7de20fcd4d474294&chksm=9add378aadaabe9c982a8859f903f1c475deba3420bd0a2d8c11cf5c427e2bb5da00b0a39dac#rd" target="_blank">知识星球</a>
       新人特惠活动进行中，关于本项目的任何问题都可以得到1对1的解答服务，
